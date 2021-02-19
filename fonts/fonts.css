@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'calson medium';
+    src: url("./Big\ Caslon\ Medium.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'calson light';
+    src: url("./BrownStd-Light.otf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'calson bold';
+    src: url("./BrownStd-Bold.otf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'calson regular';
+    src: url("./BrownStd-Regular.otf");
+    font-weight: normal;
+}
